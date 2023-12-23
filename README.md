@@ -240,6 +240,8 @@ Suggestions:
 8.	Offer exciting deals on products, such as apparel and Nest-USA, to boost sales. Implement attractive promotions like buy-one-get-one-free or special offers on housewares, gift cards, and Android devices. When customers experience the high quality of our products, they are more likely to become repeat buyers.
 9.	Provide special discounts and offers considering that new jersey and washington DC states people buying products is very less from that location.
 
+Tools
 
+*
 
 

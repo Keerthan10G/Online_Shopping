@@ -1,4 +1,4 @@
-Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.
+**Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.**
 
 Over the past quarter, the e-commerce platform OZONA has witnessed a decline in sales. Despite a consistent flow of website traffic, there has been a decrease in the percentage of visitors making purchases. Conversely, the purchases of some products have shown an increase. This decline is of significant concern as it directly impacts the revenue and overall success of the organization.
 
@@ -16,7 +16,8 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-Assumptions:
+**Assumptions:**
+
 1.	Data Sets is Normalized Manner.
 2.	Each Data is Independent to each other.
 3.	For Increase of Purchases is related to discount on Products.
@@ -25,21 +26,22 @@ Assumptions:
 6.	So Women’s category products are sold more When compare to Men Category Products.
 7.	Assumed that more products are sold from New york and Washington DC.
 
-Research Questions:
+**Research Questions:**
+
 1.	Find the Reasons Behind The sales Increased and Decreased on Some products.
 2.	What factors may increases the sales of products?
 3.	In Which people are prefering to buy the products whether in Online or Offline.
 4.	How to Over come the sales declined which help to generate the revenue.
 5.	Finding Recent Trends which Category products are brought more.
 
-Hypothesis:
+**Hypothesis:**
 
 1.	Increased Sales because of Coupons.
 2.	Some Category products may have high delivery charges and GST
 3.	people spends more amount in an month in offline when compare to online because of Reliablity or quality¬¬¬¬¬ reasons.
 4.	Products sold in high volume may be having Fare price.
 
-##Analysis and Findings:
+**Analysis and Findings:**
 
 
 
@@ -61,7 +63,7 @@ Hypothesis:
 -> As Bar graph says that major Products are sold at chicago and Califorinia so that people from this region are having major share in making revenue for organization.
 
 
-Now let we see why the products are sold more and reasons Behind it
+**Now let we see why the products are sold more and reasons Behind it**
  
 -> By knowing that it helps to make decisions and growth of company:
 
@@ -99,7 +101,7 @@ Now let we see why the products are sold more and reasons Behind it
 
 ->	These are main reasons why sells are increased where people are pefering these Category of product that having more discounts as we can see that top 3 products are having the average discounts around 20% which makes a huge diffrence when compared to other products and also these top 3 products are sold more because of the delivery charges range around (10-15) This is also one of the main reason for high volume of sells.
 
-Let us see Now why the Sells are decreased:
+**Let us see Now why the Sells are decreased:**
 
 
 
@@ -150,7 +152,7 @@ Let us see Now why the Sells are decreased:
 
 -> Coupons are not used  by many of people only around 33.8% people are utiliized it and rest of people are just clicked and some people are not used it at all. Coupons clicked means they saved coupon code but not buy any products by using it. 
 
-Now let we see Recent Trends:
+**Now let we see Recent Trends:**
 
 <img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/ef723e98-cec6-40ae-8631-34f23a0ef5ba" width="500" height="400"/>
 
@@ -201,7 +203,7 @@ Now let we see Recent Trends:
 
 -> Prices  are very high in products which is sold in huge volume but the declined sales products like Housewares and android there prices can be instead increased and also the quality of those products because people may like to buy these products in offline due reliablity and quality based on price.      
 
-Indirectly related to increase of sales declined of sales and what actions can be taken:
+**Indirectly related to increase of sales declined of sales and what actions can be taken:**
 
 
 
@@ -247,7 +249,7 @@ Indirectly related to increase of sales declined of sales and what actions can b
 ->	As above both graphs clearly shows as that when the products GST is high even then people are pefering to buy that products example Apparel (0.175%) and other products which sells are very high those products GST is more. Because of need of it and they are comfort to buy these products in online then offline. So Other products like housewares, giftcards and Android Category products should improve there quality and trust among the people.
 
 
-Suggestions:
+**Suggestions:**
 
 1.	Profit are declined due to average prices of product so it better to decrease  and increase the prices according to location.
 2.	As sales are high in month of july to september so it should be planned to give more discounts in prices and also the delivery charges.

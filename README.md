@@ -264,7 +264,21 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 8.	Offer exciting deals on products, such as apparel and Nest-USA, to boost sales. Implement attractive promotions like buy-one-get-one-free or special offers on housewares, gift cards, and Android devices. When customers experience the high quality of our products, they are more likely to become repeat buyers.
 9.	Provide special discounts and offers considering that new jersey and washington DC states people buying products is very less from that location.
 
-Tools
+Data sources:
+
+Sales data : The primary data is used in this data analysis is the "File.csv" file, containing detailed information about sale made by the company.
+
+Tools:
+
+* Python- data cleaning and Data analysis
+* Jupyter notebook- interpreter used to run python
+
+References: 
+
+1.kaggle
+2.Stack over flow
+
+
 
 *
 

@@ -20,7 +20,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-**Assumptions:**
+# **Assumptions:**
 
 1.	Data Sets is Normalized Manner.
 2.	Each Data is Independent to each other.
@@ -30,7 +30,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 6.	So Women’s category products are sold more When compare to Men Category Products.
 7.	Assumed that more products are sold from New york and Washington DC.
 
-**Research Questions:**
+# **Research Questions:**
 
 1.	Find the Reasons Behind The sales Increased and Decreased on Some products.
 2.	What factors may increases the sales of products?
@@ -38,14 +38,14 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 4.	How to Over come the sales declined which help to generate the revenue.
 5.	Finding Recent Trends which Category products are brought more.
 
-**Hypothesis:**
+# **Hypothesis:**
 
 1.	Increased Sales because of Coupons.
 2.	Some Category products may have high delivery charges and GST
 3.	people spends more amount in an month in offline when compare to online because of Reliablity or quality¬¬¬¬¬ reasons.
 4.	Products sold in high volume may be having Fare price.
 
-**Analysis and Findings:**
+# **Analysis and Findings:**
 
 
 

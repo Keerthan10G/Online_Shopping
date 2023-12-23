@@ -1,9 +1,13 @@
 Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.
 
-Over the past quarter, the e-commerce platform OZONA has witnessed a decline in sales. Despite a consistent flow of website traffic, there has been a decrease in the percentage of visitors making purchases. Conversely, the purchases of some products have shown an increase. This decline is of significant concern as it directly impacts the revenue and overall success of the organization.¬¬¬
+Over the past quarter, the e-commerce platform OZONA has witnessed a decline in sales. Despite a consistent flow of website traffic, there has been a decrease in the percentage of visitors making purchases. Conversely, the purchases of some products have shown an increase. This decline is of significant concern as it directly impacts the revenue and overall success of the organization.
 
 
 
+
+
+
+![onlineimage](https://github.com/keerthan10G/Online_shopping/assets/142901831/b5388c32-b18d-4b54-84e4-22024d76301c)
 
 
 
@@ -36,34 +40,49 @@ Hypothesis:
 3.	people spends more amount in an month in offline when compare to online because of Reliablity or quality¬¬¬¬¬ reasons.
 4.	Products sold in high volume may be having Fare price.
 
-                              Analysis and Findings:
+##Analysis and Findings:
 
+
+
+![how_many_male](https://github.com/keerthan10G/Online_shopping/assets/142901831/1ecb0a97-b577-4094-b2d1-f16c1fcd8e9e)
 
 
 
 	According to pie chart shows the percentage of male and female buying the products. Female are Purchasing in a significant numbers more than Male.
+
   
 
 
 
+![noofproducts](https://github.com/keerthan10G/Online_shopping/assets/142901831/a02cb84f-4a1e-4e73-b775-6069806c087a)
 
 
 	As Bar graph says that major Products are sold at chicago and Califorinia so that people from this region are having major share in making revenue for organization.
-Now let we see why the products are sold more and reasons Behind it 
-By knowing that it helps to make decisions and growth of company:
+
+
+Now let we see why the products are sold more and reasons Behind it
+ 
+->By knowing that it helps to make decisions and growth of company:
+
+![mostsold](https://github.com/keerthan10G/Online_shopping/assets/142901831/6c6bb0a8-fb1e-4a03-a7b5-8c66d8becce1)
+
 
 
 
 	As we can see that major products are Apparels and Nest-USA where apparel means Clothes espically formal clothes
+
 	Nest-USA is where they are Camera Indoor and outdor,Security Camera,Alarm basically a Nest is company of USA
+
 	These products are sold in high volume.
 
 
 
 
+![mostsold1](https://github.com/keerthan10G/Online_shopping/assets/142901831/02ceab15-d592-4667-b7b4-ea2a7570f293)
 
 
 
+![mostsold2](https://github.com/keerthan10G/Online_shopping/assets/142901831/5f33496f-267b-40e6-aeb5-63d376405067)
 
 
 
@@ -72,11 +91,15 @@ By knowing that it helps to make decisions and growth of company:
 
 
 	These are main reasons why sells are increased where people are pefering these Category of product that having more discounts as we can see that top 3 products are having the average discounts around 20% which makes a huge diffrence when compared to other products and also these top 3 products are sold more because of the delivery charges range around (10-15) This is also one of the main reason for high volume of sells.
+
 Let us see Now why the Sells are decreased:
 
 
 
 
+
+
+![ooscatter](https://github.com/keerthan10G/Online_shopping/assets/142901831/f3b61092-6a26-47bd-93f7-6659b936bc08)
 
 
 
@@ -90,30 +113,59 @@ Let us see Now why the Sells are decreased:
 
 
 
+![offliespenmale](https://github.com/keerthan10G/Online_shopping/assets/142901831/9b91c77b-c3e9-4fb5-8fd2-952f00b5ffe9)
 
 
+![o1nliespenmale](https://github.com/keerthan10G/Online_shopping/assets/142901831/a1d1a10d-ab75-4608-bdca-22f13ce67652)
 
 
 
 
 	As both bar graph as a clear picture that the females and males are been purchasing in offline and offline more buying  are in offline because of trust or not aware of the products that available in the online or other factors may be reasons. Woman’s are perfering to by daily use category products in offline then online.
 
- 
+ ![Coupons](https://github.com/keerthan10G/Online_shopping/assets/142901831/a78fad6c-fa1e-485f-aaa8-b8b79e25b693)
+
+
+![moreselldhist](https://github.com/keerthan10G/Online_shopping/assets/142901831/5554884a-7fb2-4879-a6b6-42fc80fbe7af)
+
+
+
 
 	As delivery charges on apparel products are been less and also according to graph we can see that accessories and housewares products are having the high average delivery charges so this is one the reason for the products sells declined.
+
 	Coupons are not used  by many of people only around 33.8% people are utiliized it and rest of people are just clicked and some people are not used it at all. Coupons clicked means they saved coupon code but not buy any products by using it. 
 
 Now let we see Recent Trends:
 
+![rateofGST](https://github.com/keerthan10G/Online_shopping/assets/142901831/ef723e98-cec6-40ae-8631-34f23a0ef5ba)
+
+
+![oopie](https://github.com/keerthan10G/Online_shopping/assets/142901831/03a35937-7ee0-4812-b015-eb447643bf4d)
 
 
 
 
-	Even though Rate of GST are high on Some Category of products are sold in high volume. 
+	Even though Rate of GST are high on Some Category of products are sold in high volume.
+
 	Also people are prefered to buy in offline 59.9% and 40.1% in online only.
 
 
+
+![big](https://github.com/keerthan10G/Online_shopping/assets/142901831/1200603c-749b-4c77-9ffc-c1d62c4fd0e6)
+
+
+
+
+
+
+
 	As we can see more balance in online spend when compared offine spending.In offline spending the there is no consistence as online spending as steadly spending in online which is a good sign for organization to make profit and generate revenue. 
+
+
+
+![monthwisemalevsfemale](https://github.com/keerthan10G/Online_shopping/assets/142901831/5df5464b-04c3-426c-9a7d-5400893729b2)
+
+
 
 
 
@@ -122,6 +174,7 @@ Now let we see Recent Trends:
 
 
 
+![pricesofproduct](https://github.com/keerthan10G/Online_shopping/assets/142901831/9669f053-8bbc-4b10-add0-650520acdff0)
 
 
 
@@ -136,10 +189,7 @@ Indirectly related to increase of sales declined of sales and what actions can b
 
 
 
-
-
-
-
+![productGST](https://github.com/keerthan10G/Online_shopping/assets/142901831/3b911bfc-a90b-4845-93a6-d5f812d6e611)
 
 
 
@@ -152,6 +202,7 @@ Indirectly related to increase of sales declined of sales and what actions can b
 
 
 
+![Trnacations](https://github.com/keerthan10G/Online_shopping/assets/142901831/4ca0128f-c11d-4c0e-8185-b98065859470)
 
 
 
@@ -165,7 +216,16 @@ Indirectly related to increase of sales declined of sales and what actions can b
 	More Transcations are taken place in the month of july-September on this date of transcations are taken place around 3500-4000 on these Monthson this date we can provide some excieting offers to our customers
 
 
-	As above all graphs clearly shows as that when the products GST is high even then people are pefering to buy that products example Apparel (0.175%) and other products which sells are very high those products GST is more. Because of need of it and they are comfort to buy these products in online then offline. So Other products like housewares, giftcards and Android Category products should improve there quality and trust among the people.
+
+
+![rateofGST](https://github.com/keerthan10G/Online_shopping/assets/142901831/288364e3-f909-4115-826d-81ece127fd1a)
+
+![different](https://github.com/keerthan10G/Online_shopping/assets/142901831/94a29855-e462-46b8-a70b-81399c7ef469)
+
+
+
+
+	As above both graphs clearly shows as that when the products GST is high even then people are pefering to buy that products example Apparel (0.175%) and other products which sells are very high those products GST is more. Because of need of it and they are comfort to buy these products in online then offline. So Other products like housewares, giftcards and Android Category products should improve there quality and trust among the people.
 
 
 Suggestions:

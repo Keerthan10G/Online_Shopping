@@ -6,8 +6,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-
-![onlineimage](https://github.com/keerthan10G/Online_shopping/assets/142901831/b5388c32-b18d-4b54-84e4-22024d76301c)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/b5388c32-b18d-4b54-84e4-22024d76301c.png" width="850" height="500 "/>
 
 
 
@@ -44,7 +43,10 @@ Hypothesis:
 
 
 
-![how_many_male](https://github.com/keerthan10G/Online_shopping/assets/142901831/1ecb0a97-b577-4094-b2d1-f16c1fcd8e9e)
+<center><img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/1ecb0a97-b577-4094-b2d1-f16c1fcd8e9e.png" height="450" width="500"/></center>
+
+
+
 
 
 
@@ -53,8 +55,7 @@ Hypothesis:
   
 
 
-
-![noofproducts](https://github.com/keerthan10G/Online_shopping/assets/142901831/a02cb84f-4a1e-4e73-b775-6069806c087a)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/a02cb84f-4a1e-4e73-b775-6069806c087a" width="700" height="500"/>
 
 
 	As Bar graph says that major Products are sold at chicago and Califorinia so that people from this region are having major share in making revenue for organization.
@@ -64,7 +65,7 @@ Now let we see why the products are sold more and reasons Behind it
  
 ->By knowing that it helps to make decisions and growth of company:
 
-![mostsold](https://github.com/keerthan10G/Online_shopping/assets/142901831/6c6bb0a8-fb1e-4a03-a7b5-8c66d8becce1)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/6c6bb0a8-fb1e-4a03-a7b5-8c66d8becce1" width="500" height="450"/>
 
 
 
@@ -76,13 +77,11 @@ Now let we see why the products are sold more and reasons Behind it
 	These products are sold in high volume.
 
 
-
-
-![mostsold1](https://github.com/keerthan10G/Online_shopping/assets/142901831/02ceab15-d592-4667-b7b4-ea2a7570f293)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/02ceab15-d592-4667-b7b4-ea2a7570f293"width="400" height="500"/>
 
 
 
-![mostsold2](https://github.com/keerthan10G/Online_shopping/assets/142901831/5f33496f-267b-40e6-aeb5-63d376405067)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/5f33496f-267b-40e6-aeb5-63d376405067" width="500" height="500"/>
 
 
 
@@ -99,7 +98,7 @@ Let us see Now why the Sells are decreased:
 
 
 
-![ooscatter](https://github.com/keerthan10G/Online_shopping/assets/142901831/f3b61092-6a26-47bd-93f7-6659b936bc08)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/f3b61092-6a26-47bd-93f7-6659b936bc08" width="300" height="500"/>
 
 
 
@@ -111,23 +110,18 @@ Let us see Now why the Sells are decreased:
 	More peoples are often buying through offline then online.This is as we assumed that there more chance are there that people are buying on offline only.
 
 
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/9b91c77b-c3e9-4fb5-8fd2-952f00b5ffe9" width="400" height="500"/>
 
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/a1d1a10d-ab75-4608-bdca-22f13ce67652" width="300" height="400"/>
 
-![offliespenmale](https://github.com/keerthan10G/Online_shopping/assets/142901831/9b91c77b-c3e9-4fb5-8fd2-952f00b5ffe9)
-
-
-![o1nliespenmale](https://github.com/keerthan10G/Online_shopping/assets/142901831/a1d1a10d-ab75-4608-bdca-22f13ce67652)
 
 
 
 
 	As both bar graph as a clear picture that the females and males are been purchasing in offline and offline more buying  are in offline because of trust or not aware of the products that available in the online or other factors may be reasons. Woman’s are perfering to by daily use category products in offline then online.
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/a78fad6c-fa1e-485f-aaa8-b8b79e25b693" width="300" height="500"/>
 
- ![Coupons](https://github.com/keerthan10G/Online_shopping/assets/142901831/a78fad6c-fa1e-485f-aaa8-b8b79e25b693)
-
-
-![moreselldhist](https://github.com/keerthan10G/Online_shopping/assets/142901831/5554884a-7fb2-4879-a6b6-42fc80fbe7af)
-
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/5554884a-7fb2-4879-a6b6-42fc80fbe7af" width="400" heigth="300"/>
 
 
 
@@ -137,10 +131,12 @@ Let us see Now why the Sells are decreased:
 
 Now let we see Recent Trends:
 
-![rateofGST](https://github.com/keerthan10G/Online_shopping/assets/142901831/ef723e98-cec6-40ae-8631-34f23a0ef5ba)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/ef723e98-cec6-40ae-8631-34f23a0ef5ba" width"300" height="500"/>
 
 
-![oopie](https://github.com/keerthan10G/Online_shopping/assets/142901831/03a35937-7ee0-4812-b015-eb447643bf4d)
+
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/03a35937-7ee0-4812-b015-eb447643bf4d" width="300" height="500"/>
+
 
 
 
@@ -151,7 +147,8 @@ Now let we see Recent Trends:
 
 
 
-![big](https://github.com/keerthan10G/Online_shopping/assets/142901831/1200603c-749b-4c77-9ffc-c1d62c4fd0e6)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/1200603c-749b-4c77-9ffc-c1d62c4fd0e6" width="300" height="400"/>
+
 
 
 
@@ -163,7 +160,7 @@ Now let we see Recent Trends:
 
 
 
-![monthwisemalevsfemale](https://github.com/keerthan10G/Online_shopping/assets/142901831/5df5464b-04c3-426c-9a7d-5400893729b2)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/5df5464b-04c3-426c-9a7d-5400893729b2" width="300" height="400"/>
 
 
 
@@ -174,7 +171,7 @@ Now let we see Recent Trends:
 
 
 
-![pricesofproduct](https://github.com/keerthan10G/Online_shopping/assets/142901831/9669f053-8bbc-4b10-add0-650520acdff0)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/9669f053-8bbc-4b10-add0-650520acdff0" width="400" height="400"/>
 
 
 
@@ -189,7 +186,7 @@ Indirectly related to increase of sales declined of sales and what actions can b
 
 
 
-![productGST](https://github.com/keerthan10G/Online_shopping/assets/142901831/3b911bfc-a90b-4845-93a6-d5f812d6e611)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/3b911bfc-a90b-4845-93a6-d5f812d6e611" width="300" height="400"/>
 
 
 
@@ -202,7 +199,7 @@ Indirectly related to increase of sales declined of sales and what actions can b
 
 
 
-![Trnacations](https://github.com/keerthan10G/Online_shopping/assets/142901831/4ca0128f-c11d-4c0e-8185-b98065859470)
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/4ca0128f-c11d-4c0e-8185-b98065859470" width="400" height="400"/>
 
 
 

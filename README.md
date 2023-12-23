@@ -1,8 +1,8 @@
-- [project overview](project-overview)
 
 
 
-**Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.**
+
+# **Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.**
 
 Over the past quarter, the e-commerce platform OZONA has witnessed a decline in sales. Despite a consistent flow of website traffic, there has been a decrease in the percentage of visitors making purchases. Conversely, the purchases of some products have shown an increase. This decline is of significant concern as it directly impacts the revenue and overall success of the organization.
 
@@ -59,7 +59,6 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 ->	According to pie chart shows the percentage of male and female buying the products. Female are Purchasing in a significant numbers more than Male.
 
   
-project overview
 
 <img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/a02cb84f-4a1e-4e73-b775-6069806c087a" width="700" height="500"/>
 

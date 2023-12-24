@@ -128,7 +128,8 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/9b91c77b-c3e9-4fb5-8fd2-952f00b5ffe9" width="400" height="350"/>
+
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/4705b93b-b952-486d-97d2-3819d999ae1b" width="400" height="350"/>
 
 
 

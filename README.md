@@ -66,7 +66,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 -> As Bar graph says that major Products are sold at chicago and Califorinia so that people from this region are having major share in making revenue for organization.
 
 
-**Now let we see why the products are sold more and reasons Behind it**
+# **Now let we see why the products are sold more and reasons Behind it**
  
 -> By knowing that it helps to make decisions and growth of company:
 
@@ -104,7 +104,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 ->	These are main reasons why sells are increased where people are pefering these Category of product that having more discounts as we can see that top 3 products are having the average discounts around 20% which makes a huge diffrence when compared to other products and also these top 3 products are sold more because of the delivery charges range around (10-15) This is also one of the main reason for high volume of sells.
 
-**Let us see Now why the Sells are decreased:**
+# **Let us see Now why the Sells are decreased:**
 
 
 
@@ -155,7 +155,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 -> Coupons are not used  by many of people only around 33.8% people are utiliized it and rest of people are just clicked and some people are not used it at all. Coupons clicked means they saved coupon code but not buy any products by using it. 
 
-**Now let we see Recent Trends:**
+# **Now let we see Recent Trends:**
 
 <img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/ef723e98-cec6-40ae-8631-34f23a0ef5ba" width="500" height="400"/>
 
@@ -206,13 +206,13 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 -> Prices  are very high in products which is sold in huge volume but the declined sales products like Housewares and android there prices can be instead increased and also the quality of those products because people may like to buy these products in offline due reliablity and quality based on price.      
 
-**Indirectly related to increase of sales declined of sales and what actions can be taken:**
+# **Indirectly related to increase of sales declined of sales and what actions can be taken:**
 
 
 
 
 
-<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/3b911bfc-a90b-4845-93a6-d5f812d6e611" width="700" height="600"/>
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/3b911bfc-a90b-4845-93a6-d5f812d6e611" width="600" height="450"/>
 
 
 
@@ -252,7 +252,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 ->	As above both graphs clearly shows as that when the products GST is high even then people are pefering to buy that products example Apparel (0.175%) and other products which sells are very high those products GST is more. Because of need of it and they are comfort to buy these products in online then offline. So Other products like housewares, giftcards and Android Category products should improve there quality and trust among the people.
 
 
-**Suggestions:**
+# **Suggestions:**
 
 1.	Profit are declined due to average prices of product so it better to decrease  and increase the prices according to location.
 2.	As sales are high in month of july to september so it should be planned to give more discounts in prices and also the delivery charges.
@@ -264,22 +264,19 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 8.	Offer exciting deals on products, such as apparel and Nest-USA, to boost sales. Implement attractive promotions like buy-one-get-one-free or special offers on housewares, gift cards, and Android devices. When customers experience the high quality of our products, they are more likely to become repeat buyers.
 9.	Provide special discounts and offers considering that new jersey and washington DC states people buying products is very less from that location.
 
-Data sources:
+# Data sources:
 
 Sales data : The primary data is used in this data analysis is the "File.csv" file, containing detailed information about sale made by the company.
 
-Tools:
+# Tools:
 
 * Python- data cleaning and Data analysis
 * Jupyter notebook- interpreter used to run python
 
-References: 
+# References: 
 
 1.kaggle
 2.Stack over flow
 
-
-
-*
 
 

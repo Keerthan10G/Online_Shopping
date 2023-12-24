@@ -2,7 +2,7 @@
 
 
 
-# **Problem Statement :Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.**
+# **Problem Statement: Reasons Behind Decrease and Increase of Sales in an E-commerce Platform.**
 
 Over the past quarter, the e-commerce platform OZONA has witnessed a decline in sales. Despite a consistent flow of website traffic, there has been a decrease in the percentage of visitors making purchases. Conversely, the purchases of some products have shown an increase. This decline is of significant concern as it directly impacts the revenue and overall success of the organization.
 

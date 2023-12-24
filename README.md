@@ -129,7 +129,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/4705b93b-b952-486d-97d2-3819d999ae1b" width="400" height="350"/>
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/4476ab18-ddea-4507-93f4-b36d74ff846c" width="400" height="350"/>
 
 
 
@@ -137,22 +137,32 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
-<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/a1d1a10d-ab75-4608-bdca-22f13ce67652" width="400" height="350"/>
 
+<img src="https://github.com/keerthan10G/Online_shopping/assets/142901831/78cb1dbf-89d4-46fb-9fc1-b70ad43524c2" width="400" height="350"/>
 
-
-
-
--> As both bar graph as a clear picture that the females and males are been purchasing in offline and online but women are purchasing more. Woman’s are perfering to by daily use category products in offline then online According to the Category of products are sold.	
-<h3>Online_Spend and Offline spend</h3>
+<h3>Online_Spend</h3>
 <table border="3">
   <th>Gender</th>
      <td>F</td>
      <td>M</td>
 <th>Count</th>
-<td>32767</td></td>
-  <td>19757</td>
+<td>1901.04</td></td>
+  <td>1882.89</td>
 </table>
+<h3>OfflineSpend</h3>
+<table border="3">
+  <th>Gender</th>
+     <td>F</td>
+     <td>M</td>
+<th>Count</th>
+<td>	2863.41</td></td>
+  <td>	2781.03</td>
+</table>
+
+
+
+
+-> As both bar graph as a clear picture that the females and males are been purchasing in offline and online but women are purchasing more. Woman’s are perfering to by daily use category products in offline then online According to the Category of products are sold.	
 
 
 

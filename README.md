@@ -143,7 +143,7 @@ Over the past quarter, the e-commerce platform OZONA has witnessed a decline in 
 
 
 
--> As both bar graph as a clear picture that the females and males are been purchasing in offline and online but women are purchasing more. Woman’s are perfering to by daily use category products in offline then online.	
+-> As both bar graph as a clear picture that the females and males are been purchasing in offline and online but women are purchasing more. Woman’s are perfering to by daily use category products in offline then online According to the Category of products are sold.	
 <h3>Online_Spend and Offline spend</h3>
 <table border="3">
   <th>Gender</th>

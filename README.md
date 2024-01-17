@@ -42,7 +42,7 @@ Over the past quarter, the e-commerce platform (OZONA) has witnessed a decline i
 
 1.	Increased Sales because of Coupons.
 2.	Some Category products may have high delivery charges and GST
-3.	people spends more amount in an month in offline when compare to online because of Reliablity or quality¬¬¬¬¬ reasons.
+3.	people spends more amount in an month in offline when compare to online because of Reliablity or quality reasons.
 4.	Products sold in high volume may be having Fare price.
 
 # **Analysis and Findings:**

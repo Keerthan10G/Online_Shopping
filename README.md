@@ -230,7 +230,7 @@ Over the past quarter, the e-commerce platform (OZONA) has witnessed a decline i
 
 -> Prices  are very high in products which is sold in huge volume but the declined sales products like Housewares and android there prices can be instead increased and also the quality of those products because people may like to buy these products in offline due reliablity and quality based on price.      
 
-# **Indirectly related to increase of sales declined of sales and what actions can be taken:**
+# **Indirectly related to increase of sales,  declined of sales and what actions can be taken:**
 
 
 
